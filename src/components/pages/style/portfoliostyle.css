@@ -1,0 +1,64 @@
+/* Stylesheet for Portfolio Page */
+
+/* Background color */
+body {
+    background-color: lightskyblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* Container formatting */
+.container {
+    border: 1px solid;
+    background-color: ivory;
+    max-width: 100%;
+    height: 100%;
+    
+}
+
+/* Text formatting */
+.portfolioContent {
+    padding: 15px;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+
+
+/* Image formatting */
+.col-sm-12 img {
+   text-align: center;
+   max-width: 100%;
+}
+
+/* Formatting for sticky footer */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+/* Formatting for sticky footer */
+body {
+    margin-bottom: 60px;
+}
+
+/* Formatting for sticky footer */
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    
+    margin-top: 10px;
+}
+
+/* Formatting for sticky footer content */
+.footContent {
+    text-align: center;
+}
+
+
+
